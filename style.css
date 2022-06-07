@@ -1,0 +1,58 @@
+.hero .intro-text{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-align: center;
+    color: white;
+}
+
+.hero .intro-text h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.hero .intro-text p{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.hero{
+    background: url("https://storage.googleapis.com/dityara-profile/hero.jpg") center;
+    background-size: cover;
+}
+
+section{
+    width: 550px;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.journey .info span{
+    color: #333;
+    font-weight: 600;
+}
+
+section h2{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.ido h3{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.ido i{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 20px;
+    text-align: center;
+}
